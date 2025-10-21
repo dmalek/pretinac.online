@@ -1,4 +1,4 @@
-# Što je pretinac.online?
+# Što je pretinac.online [https://pretinac.online]?
 Pretinac.online je sigurna platforma za razmjenu dokumenata, dizajnirana da osigura privatnost i potpuni nadzor nad vašim podacima. Svaki dokument koji pošaljete ili primite prolazi kroz dvostruku enkripciju, što znači da su podaci šifrirani i prije slanja i prilikom pohrane. Zahvaljujući tome, čak ni naš server ne može pročitati sadržaj datoteka — vidljivi su samo metapodaci, poput pošiljatelja, primatelja i datuma.
 
 # Prednosti u odnosu na na e-mail i cloud drive usluge
